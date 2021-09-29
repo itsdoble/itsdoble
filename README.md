@@ -1,4 +1,4 @@
 - 👋 Hi, I’m doble.
 - 👀 I’m interested in web developing.
-- 🌱 I’m currently learning html,css and javascript.
-- 📫 you can reach me at doblegangerlol@gmail.com.
+- 🌱 I’m currently learning HTML,CSS and Javascript.
+- 📫 You can reach me at doblegangerlol@gmail.com.
