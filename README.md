@@ -1,4 +1,4 @@
-- 👋 Hi, I’m doble.
+- 👋 Hi, I’m Darrion.
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently learning HTML,CSS and Javascript.
 - 📫 You can reach me at doblegangerlol@gmail.com.
